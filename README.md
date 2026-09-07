@@ -1,0 +1,2 @@
+# Bitcoin-Trading-Volume-and-Market-Volatility-An-Empirical-Analysis-2017-2026-
+An empirical analysis examining the relationship between Bitcoin trading volume and 30-day rolling market volatility using daily data from 2017 to 2026.  Tools: R, Excel, Statistics, Econometrics Methods: Descriptive Statistics, Correlation Analysis, OLS Regression, ADF Test, Breusch-Pagan Test, Durbin-Watson Test, Newey-West HAC Standard Errors
